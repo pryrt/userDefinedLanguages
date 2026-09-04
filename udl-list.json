@@ -3493,7 +3493,9 @@
       "version": "Fri, 04 Sep 2026 08:26:00 GMT",
       "repository": "",
       "description": "OMG SysML v2",
-      "author": "aklira"
+      "author": "aklira",
+      "autoCompletion": "SysML v2",
+      "autoCompletionAuthor": "generate_ac.py"
     },
     {
       "id-name": "SystemRDL2_byKeithBrady",

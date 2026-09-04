@@ -350,6 +350,7 @@
 | [Substation Alpha format](./UDLs/SubStation_Alpha_byAndrewMiller.xml) | [Andrew Miller](mailto:A.J.Miller@bcs.org.uk) | Substation Alpha format |
 | [SubStation Alpha Subtitles (ASS)](./UDLs/Substation_alpha_subtitles_byJackyHE.xml) | [Jacky HE](mailto:ihkk.nb@gmail.com) | Substation Alpha format |
 | [Susan](./UDLs/Susan_byMahderGebremedhin.xml) | [Mahder Gebremedhin](mailto:mahge930@student.se) | Susan |
+| [SysML v2](./UDLs/sysmlv2_omg_byaklira.xml) | aklira | OMG SysML v2 |
 | [System Verilog 1](./UDLs/SystemVerilog1_byKapilPatel.xml) | [Kapil Patel](mailto:kapilpatel@yahoo.com) | System Verilog 1 |
 | [SystemRDL 2.0](./UDLs/SystemRDL2_byKeithBrady.xml) | Keith Brady <@krcb197> | SystemRDL 2.0 |
 | [T-SQL (MS Server 2008R2)](./UDLs/T-SQL-MSServer2008r2_bySergeyIvanov.xml) | [Sergey Ivanov](mailto:icegood1980@gmail.com) | T-SQL (MS Server 2008R2) |
@@ -711,6 +712,7 @@
 | [Substation Alpha format](./autoCompletion/SSA.xml) | generate_ac.py | Substation Alpha format |
 | [SubStation Alpha Subtitles (ASS)](./autoCompletion/SubStation%20Alpha%20Subtitles%20%28ASS%29.xml) | generate_ac.py | Substation Alpha format |
 | [Susan](./autoCompletion/Susan.xml) | generate_ac.py | Susan |
+| [SysML v2](./autoCompletion/SysML%20v2.xml) | generate_ac.py | OMG SysML v2 |
 | [System Verilog 1](./autoCompletion/SystemVerilog.xml) | generate_ac.py | System Verilog 1 |
 | [SystemRDL 2.0](./autoCompletion/SystemRDL%202.0.xml) | generate_ac.py | SystemRDL 2.0 |
 | [T-SQL (MS Server 2008R2)](./autoCompletion/tsql.xml) | generate_ac.py | T-SQL (MS Server 2008R2) |
